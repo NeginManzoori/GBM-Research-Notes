@@ -1,10 +1,13 @@
-# 🧠 GBM-Research-Notes
+# 🧬 GBM Research Notes
+
+Hi! I'm **Negin Manzoori**, an M.Sc. student in **Human Genetics** at **Kerman University of Medical Sciences (KMU)**.
+
+My research interests lie at the intersection of **Glioblastoma (GBM) research**, **Bioinformatics**, and **Neuroscience**. I'm currently at the beginning of my journey, learning how to bridge the gap between wet-lab genetics and computational biology.
+
+This repository is my **open lab notebook** — a place where I document what I read, how I interpret papers, and what I'm learning along the way.
 
 > **Learning in Public: One Paper, One Visual, One Insight — every month.**
 
-Welcome to my research notebook! I am **Negin Manzoori**, a student exploring the intersection of **Glioblastoma (GBM) research, bioinformatics, and multi-omics**.
-
-I’m currently at the beginning of my journey, learning how to bridge the gap between neuroscience and computational biology. This repository is my **open lab notebook**—a place where I document what I read, how I interpret it, and what I’m learning along the way.
 
 ## 📚 Monthly Notes
 
