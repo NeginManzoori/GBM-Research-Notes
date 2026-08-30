@@ -29,10 +29,3 @@ Constructive criticism and reading recommendations are highly appreciated!
 ---
 *Started: August 2026 — Progress > Perfection.* 🌱
 
-## 🤝 Suggestions & Feedback
-I am currently learning and documenting my journey. Since I am at the beginning of this path, I truly value community feedback. If you have any suggestions on papers to read, my learning approach, or the bioinformatics tools I'm using:
-
-- **Open an [Issue](https://github.com/NeginManzoori/GBM-Research-Notes/issues/new)**: Use this for specific research discussions or paper recommendations.
-- **Reach out on [LinkedIn](https://www.linkedin.com/in/negin-manzoori)**: For general mentorship and networking.
-
-Constructive criticism and reading recommendations are highly appreciated!
